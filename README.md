@@ -1,6 +1,10 @@
-# Electron React Three Boilerplate
+# Electron Three Character Animation
 
-This project serves as a starting point for electron apps that utilize React and Three.js. Included is a basic scene with a canvas, lighting, example meshes, and basic physics.
+This project serves as an example of loading a basic character model with animations as a GLTF file with React Three Fiber in an Electron App
+
+## Electron React Three Boilerplate
+
+This project was originally cloned from my [Electron React Three Boilerplate](https://github.com/Wow-Its-Ian/electron-react-three-boilerplate).
 
 ## Instructions For Getting Started With Boilerplate
 
